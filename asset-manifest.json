@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/nutrisipe/static/css/main.812954ef.chunk.css",
+    "main.js": "/nutrisipe/static/js/main.dacc87f8.chunk.js",
+    "main.js.map": "/nutrisipe/static/js/main.dacc87f8.chunk.js.map",
+    "runtime-main.js": "/nutrisipe/static/js/runtime-main.22c440f3.js",
+    "runtime-main.js.map": "/nutrisipe/static/js/runtime-main.22c440f3.js.map",
+    "static/js/2.e1d65dc5.chunk.js": "/nutrisipe/static/js/2.e1d65dc5.chunk.js",
+    "static/js/2.e1d65dc5.chunk.js.map": "/nutrisipe/static/js/2.e1d65dc5.chunk.js.map",
+    "index.html": "/nutrisipe/index.html",
+    "service-worker.js": "/nutrisipe/service-worker.js",
+    "service-worker.js.LICENSE.txt": "/nutrisipe/service-worker.js.LICENSE.txt",
+    "service-worker.js.map": "/nutrisipe/service-worker.js.map",
+    "static/css/main.812954ef.chunk.css.map": "/nutrisipe/static/css/main.812954ef.chunk.css.map",
+    "static/js/2.e1d65dc5.chunk.js.LICENSE.txt": "/nutrisipe/static/js/2.e1d65dc5.chunk.js.LICENSE.txt",
+    "static/media/Fats.ddb0d426.jpg": "/nutrisipe/static/media/Fats.ddb0d426.jpg",
+    "static/media/Fruits.9e3315e1.jpg": "/nutrisipe/static/media/Fruits.9e3315e1.jpg",
+    "static/media/Protein.ae05b258.jpg": "/nutrisipe/static/media/Protein.ae05b258.jpg",
+    "static/media/dairy.00e60176.jpg": "/nutrisipe/static/media/dairy.00e60176.jpg",
+    "static/media/fish.ef9752ef.jpg": "/nutrisipe/static/media/fish.ef9752ef.jpg",
+    "static/media/foods.2fe469ec.mp4": "/nutrisipe/static/media/foods.2fe469ec.mp4",
+    "static/media/logo2s.23aa96e6.png": "/nutrisipe/static/media/logo2s.23aa96e6.png",
+    "static/media/logoss.c9193e43.png": "/nutrisipe/static/media/logoss.c9193e43.png",
+    "static/media/meat.111f30aa.jpg": "/nutrisipe/static/media/meat.111f30aa.jpg",
+    "static/media/veg.08a93c27.jpg": "/nutrisipe/static/media/veg.08a93c27.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22c440f3.js",
+    "static/js/2.e1d65dc5.chunk.js",
+    "static/css/main.812954ef.chunk.css",
+    "static/js/main.dacc87f8.chunk.js"
+  ]
+}
